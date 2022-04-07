@@ -10,10 +10,12 @@ You can find me or contact me through these networks:
 
 ### Some stats
 
+<a href="https://stackoverflow.com/users/3902752/moris"><img src="https://stackoverflow.com/users/flair/3902752.png?theme=clean" width="208" height="58" alt="profile for Moris.se at Stack Overflow" title="profile for Moris.se at Stack Overflow"></a>
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bobeta&count_private=true&show_icons=true&hide=contribs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobeta&layout=compact&theme=dark)
 
-#### Github profile visitors
+### Github profile visitors
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bobeta.bobeta&left_color=black&right_color=green)
 
