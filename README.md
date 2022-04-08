@@ -18,7 +18,7 @@ You can find me or contact me through these networks:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobeta" alt="Bobeta streaks on github" />
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=bobeta&count_private=true&show_icons=true&hide=contribs&theme=dark)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=bobeta&hide=stars&count_private=true&show_icons=true&hide=contribs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobeta&layout=compact&theme=dark)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobeta&margin-w=5" alt="moris profile trophies" /></a>
