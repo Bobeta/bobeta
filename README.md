@@ -1,6 +1,6 @@
 ### Hi human 👋
 
-I'm Moris, a Developer & UX designer that loves solving real-world problems.
+I love solving real-world problems with usable modern tech stacks.
 
 You can find me or contact me through these networks:
 
