@@ -20,7 +20,7 @@ You can find me or contact me through these networks:
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bobeta.bobeta&left_color=black&right_color=green)
 
-### Stackoverflow
+### Stack overflow
 
 <a href="https://stackexchange.com/users/4836093"><img src="https://stackexchange.com/users/flair/4836093.png?theme=clean" width="208" height="58" alt="profile for Moris on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Moris on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
