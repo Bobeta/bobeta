@@ -20,8 +20,6 @@ You can find me or contact me through these networks:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bobeta&count_private=true&show_icons=true&hide=contribs,stars&theme=dark)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobeta&margin-w=5" alt="moris profile trophies" /></a>
-
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bobeta.bobeta&left_color=black&right_color=green)
 
 <!--
